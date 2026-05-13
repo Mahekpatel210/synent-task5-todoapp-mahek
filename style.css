@@ -148,3 +148,8 @@ li:hover{
     transform: scale(1.02);
     transition: 0.3s;
 }
+.subtitle{
+    text-align: center;
+    color: #64748b;
+    margin-bottom: 20px;
+}
