@@ -57,3 +57,4 @@ function deleteTask(index){
 }
 
 displayTasks();
+console.log("Todo App Loaded");
